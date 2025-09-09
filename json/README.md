@@ -1,4 +1,4 @@
-#Converter arquivo PDF para JSON
+Converter arquivo PDF para JSON
 ---
 Esse programa foi feito para converter arquivos PDF de Consultas de COntribuinte para JSON, no formato consulta-conteudo.
 
