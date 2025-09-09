@@ -9,5 +9,5 @@ O programa irá buscar todos os links possíveis no google, e devido a configura
 
 Biblioteca usada: 'undetected_chromedriver'
 
-(É necessário que o google Chrome da sua máquina esteja na versão mais recente para que a biblioteca rode)
+(É necessário que o google Chrome da sua máquina esteja na versão mais recente para usar essa biblioteca)
 
